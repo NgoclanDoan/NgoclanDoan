@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a fresher Front-end Web Developer 🚀 from Viet Nam.
+I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a fresher Front-end Web Developer 🚀 from Viet Nam.
   
 **Talking about Personal Stuffs:**
 
