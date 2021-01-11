@@ -2,7 +2,6 @@
 <a href="https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/">
   <img align="left" alt="Ngoclan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
 
 I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a fresher Front-end Web Developer 🚀 from Viet Nam.
