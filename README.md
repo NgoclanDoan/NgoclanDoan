@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/">
   <img align="left" alt="Ngoclan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://github.com/NgoclanDoan">
+  <img align="left" alt="Ngoclan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <br />
 
 I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a fresher Front-end Web Developer 🚀 from Viet Nam.
@@ -11,7 +14,7 @@ I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a fres
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning ReactJS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ngoclan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/);
+- 📫 How to reach me: [Linkedin - @ngoclan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/);
 - 📝[Resume](https://drive.google.com/file/d/1jd69x6IUXdfIqC0yQKqxW3SEms7hEIej/view?usp=sharing)
 
 **Languages and Tools:**  
