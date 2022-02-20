@@ -14,8 +14,8 @@ I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a fres
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning ReactJS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Linkedin - @ngoclan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), [Email](mailto:dtnlanat13m@gmail.com)
-- 📝[Resume](https://drive.google.com/file/d/1_5NFSEg4y5xKrV_R4DzKTM6bphBnwPvo/view?usp=sharing)
+- 📫 How to reach me: [Linkedin - @ngoclan](https://www.linkedin.com/in/đoàn-thị-ngọc-lan-993616188/), [Email](mailto:dtnlanat13m@gmail.com)
+
 
 **Languages and Tools:**  
 
