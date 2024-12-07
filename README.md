@@ -7,12 +7,12 @@
 </a>
 <br />
 
-I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a fresher Front-end Web Developer 🚀 in Viet Nam.
+I'm [Ngoc Lan](https://www.linkedin.com/in/doan-thi-ngoc-lan-993616188/), a FullStack Developer 🚀 in Viet Nam.
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning ReactJS; 
+- 🌱 I’m currently learning ReactJS, NodeJS; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin - @ngoclan](https://www.linkedin.com/in/doanthingoclan98/), [Email](mailto:dtnlanat13m@gmail.com)
 
